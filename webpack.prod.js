@@ -59,7 +59,6 @@ module.exports = {
 	plugins: [
 		new HtmlWebPack({
 			title: 'Mi WebPack App',
-			// filename: 'index.html'
 			template: './src/index.html'
 		}),
 
